@@ -1,0 +1,19 @@
+test_actual_missing_file (__main__.ProtocolTests.test_actual_missing_file) ... ok
+test_aead_wrong_key_rejected (__main__.ProtocolTests.test_aead_wrong_key_rejected) ... ok
+test_bad_proof_wrong_file_and_node (__main__.ProtocolTests.test_bad_proof_wrong_file_and_node) ... ok
+test_duplicate_and_zero_coefficient_challenge (__main__.ProtocolTests.test_duplicate_and_zero_coefficient_challenge) ... ok
+test_fault_detection_matches_queried_blocks (__main__.ProtocolTests.test_fault_detection_matches_queried_blocks) ... ok
+test_independent_curve_and_pairing_implementation (__main__.ProtocolTests.test_independent_curve_and_pairing_implementation) ... ok
+test_invalid_encoding_and_out_of_field (__main__.ProtocolTests.test_invalid_encoding_and_out_of_field) ... ok
+test_normal_public_verification (__main__.ProtocolTests.test_normal_public_verification) ... ok
+test_pinned_key_and_metadata_tamper (__main__.ProtocolTests.test_pinned_key_and_metadata_tamper) ... ok
+test_reconstruction_every_k_of_n (__main__.ProtocolTests.test_reconstruction_every_k_of_n) ... ok
+test_replay_with_new_coefficients_and_relabelled_envelope (__main__.ProtocolTests.test_replay_with_new_coefficients_and_relabelled_envelope) ... ok
+test_sampling_seed_domains_do_not_overlap (__main__.ProtocolTests.test_sampling_seed_domains_do_not_overlap) ... ok
+test_signature_baseline (__main__.ProtocolTests.test_signature_baseline) ... ok
+test_timeout_policy (__main__.ProtocolTests.test_timeout_policy) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 1.451s
+
+OK

@@ -1,0 +1,23 @@
+{
+  "project": "2023YFB2704400",
+  "protocol": "SW08-section-3.3-public-homomorphic-authenticator",
+  "scope": "single-host sequential logical nodes; ciphertext possession sampling; no on-chain deployment",
+  "sizes_bytes": [65536, 262144, 1048576],
+  "nodes": [5, 6, 8],
+  "data_shards": 4,
+  "sectors_per_block": 32,
+  "sector_bytes": 31,
+  "challenge_counts": [4, 16, 64],
+  "independent_seeds": [2023090801, 2023090802, 2023090803],
+  "warmups_per_cell": 1,
+  "measured_repeats_per_cell": 5,
+  "fault_file_bytes": 65536,
+  "fault_nodes": 6,
+  "fault_fractions": [0.01, 0.05, 0.20],
+  "fault_kinds": ["missing", "corrupt"],
+  "fault_repeats_per_seed": 30,
+  "methods": ["sw", "ed25519"],
+  "seed_scope": "synthetic payload, fixed fault sets, sample indices, run ordering only; cryptographic randomness uses OS CSPRNG",
+  "sampling_seed_derivation": "v1.1 uses domain-separated SHA256 tuples; archived v1.0 primary run used additive seeds; follow-up uses its own documented SHA256 domain",
+  "parameter_source": "k=4 and parity 1..4 from AEC-DS 3.1/Table 2; remaining parameters are new resource-bounded engineering choices"
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "file": "tools/protocol.py",
+    "original_sha256": "b4052643fd969a8d4ce3dc8f75c3400a7b1ba8ea821e4fc77fb569304718adce",
+    "release_sha256": "b4052643fd969a8d4ce3dc8f75c3400a7b1ba8ea821e4fc77fb569304718adce"
+  },
+  {
+    "file": "tools/bootstrap.py",
+    "original_sha256": "4ce12afdd244e2d5d109824b010a77abd90084fd5d7341c434b5f99a5778812b",
+    "release_sha256": "4ce12afdd244e2d5d109824b010a77abd90084fd5d7341c434b5f99a5778812b"
+  },
+  {
+    "file": "tools/config.json",
+    "original_sha256": "52fed0940d38ec9cbaf6c0710e6f6f9fdedcbb03795bd99d4358d0ea38d0eb35",
+    "release_sha256": "52fed0940d38ec9cbaf6c0710e6f6f9fdedcbb03795bd99d4358d0ea38d0eb35"
+  },
+  {
+    "file": "tools/run_experiment.py",
+    "original_sha256": "cdf026a96257fc231c98a14f9922ee4c3c8e52beb2385101bda12d268d1cd66e",
+    "release_sha256": "88f41b15015947cd8108bf8a7646274e7bd06618fcabb137a84d4bb75446bf9b"
+  },
+  {
+    "file": "tools/test_protocol.py",
+    "original_sha256": "8a611eb38cb76363e67e17effb4d77a59fe19465ce8aeee5880281486c4baea5",
+    "release_sha256": "8a611eb38cb76363e67e17effb4d77a59fe19465ce8aeee5880281486c4baea5"
+  },
+  {
+    "file": "tools/run_tests.py",
+    "original_sha256": "62c5758a2796d66c445c91f3b9e669c6ed8074a246d4453a9842cca7ea308c1f",
+    "release_sha256": "10f8821dcba319f6f33fae1537fec80d38dca0a62a4e58ff802199c99f5445f8"
+  },
+  {
+    "file": "tools/analyze_results.py",
+    "original_sha256": "9ba7d98a22dba5957948c6d07bd2b18d1bbef7de6946a516ae08ca46be150791",
+    "release_sha256": "9ba7d98a22dba5957948c6d07bd2b18d1bbef7de6946a516ae08ca46be150791"
+  },
+  {
+    "file": "tools/sampling_followup.py",
+    "original_sha256": "d20ba254c2eed35bb51afbe47260ccc7a6c95e024bdd7853bb9b1a4abf2c3f36",
+    "release_sha256": "778c92ec82d8855f6e493ace8d438bf86fbf218f10c5294b4de5d90613501705"
+  },
+  {
+    "file": "tools/verify_dataset.py",
+    "original_sha256": "60e808628e370a9874776c86f7fe1c9815c63b18d233963f0038bba0dfbcb220",
+    "release_sha256": "60e808628e370a9874776c86f7fe1c9815c63b18d233963f0038bba0dfbcb220"
+  },
+  {
+    "file": "tools/verify_followup.py",
+    "original_sha256": "1f46334ca715963fe48d367d94fca60907d883117061df9a8ce4c1d168cd8bbe",
+    "release_sha256": "9b9f6e31e72878c677a1885ba75606c785f88fe45ce7523696305028e537a26d"
+  }
+]
